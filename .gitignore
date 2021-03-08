@@ -1,7 +1,10 @@
 .Rproj.user
-.Rproj
+.Rproj*
 .Rhistory
 .RData
 .Ruserdata
 .html
 get_tweet_IDs.R
+README.html
+arbsprngtweets.Rproj
+dir_to_ignore/plots
