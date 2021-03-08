@@ -11,7 +11,7 @@ Details of how many tweets and accounts these contain below:
 
 While relatively small by today's standards, this represents an increase on existing datasets for these hashtags, e.g. [here](http://dfreelon.org/2012/02/11/arab-spring-twitter-data-now-available-sort-of/) and [here](https://necsus-ejms.org/twitter-as-a-multilingual-space-the-articulation-of-the-tunisian-revolution-through-sidibouzid-by-thomas-poell-and-kaouthar-darmoni/).
 
-NOTE: The data were collected end of February 2021. These data therefore do **not** capture tweets that were subsequently deleted due either to individual tweet deletion or account deletion. As a result, these tweets will be absent accounts and tweets that, for whatever reason, were deleted since the 2010-12 date range of observation window. 
+NOTE: The data were collected end of February 2021. These data therefore do **not** capture tweets that were subsequently deleted due either to individual tweet deletion or account deletion. As a result, these tweets will be absent accounts and tweets that, for whatever reason, were deleted since the 2010-12 date range of observation window. The size and direction of this bias is unknown but could be better gauged by comparison with one of the original (already "hydrated"") tweet datasets linked above.
 
 These can be "rehydrated" (i.e., harvested with accompanying tweet-level information) using the DocTheNow "Hydrator" tool [here](https://github.com/DocNow/hydrator) or with a couple of lines of R or Python code.
 
